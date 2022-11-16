@@ -1,0 +1,25 @@
+{
+	"words": {
+			"[PAU]":"!SIL",
+			"[FIL]": "!SIL",
+			"[INT]": "!SIL",
+			"[SPK]": "!SIL",
+			"<ÄHM>": "!SIL",
+			"<ÄH>": "!SIL",
+			"<ÄHEM>": "!SIL",
+			"<HM>": "!SIL",
+			"#GARBAGE#": "!SIL",
+			"9": "NEUN",
+			"N24": "N VIERUNDZWANZIG",
+			"1": "EINS"
+		},
+	"phonemes": {
+			"T": "s",
+			"D": "z",
+			"Z": "S",
+			"a~": "a",
+			"y:6": "@",
+			"2:6": "@",
+			"E:6": "@"
+		}
+}
