@@ -4,6 +4,9 @@ This README file outlines the directory structure which you are currently in.
 In the structure, three ASR projects can be found with corresponding .md-files each which explain the best WERs and the used data for it.
 Generally spoken, all ASR systems are GMM-HMM models.
 
+NOTE: some of the undermentioned directories are not on git.
+We are currently working on bringing a basic train/test setup on git.
+Please request bigger material from the authors, if the ALC or Ph@ttSessionz corpus are needed specifially
 
 ## Basic structure
 The main directory structure is as follows:

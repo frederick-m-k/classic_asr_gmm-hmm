@@ -7,8 +7,8 @@ The Graz tutorial for kaldi was used to create this project.
 
 The other ASR projects can be found in other README files.
 
-
-## Short overview over the results ' to be updated
+NOTE: the content of the mentioned directories are not on git. Please request from the authors, if needed
+## Short overview over the results
 Firstly, a short overview over the results is given in the following table.
 Afterwards, the steps done to get to those results are explained in detail.
 | Training | Testing | model type | result in WER | lmwt | notes |
